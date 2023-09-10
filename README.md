@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Chathuranga Senarathne</h1>
+<h1 align="center">Hi 👋, I'm Anuradhe Senaratne</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuranga-1999&label=Profile%20views&color=0e75b6&style=flat" alt="chathuranga-1999" /> </p>
+<p align="left"> <!--img src="https://komarev.com/ghpvc/?username=chathuranga-1999&label=Profile%20views&color=0e75b6&style=flat" alt="chathuranga-1999" /> </p-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" height="30" width="40" /></a>
+<!--a href="https://linkedin.com/in/https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathuranga-senarathne-ba8670210" height="30" width="40" /></a>
 </p>
 
-<a href="mailto:chathu.redfox@gmail.com">
+<!--a href="mailto:chathu.redfox@gmail.com">
 <img src="https://img.shields.io/badge/-chathu.redfox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chathu.redfox@gmail.com" />
 </a>
 
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathuranga-1999&show_icons=true&locale=en" alt="chathuranga-1999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuranga-1999&" alt="chathuranga-1999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuranga-1999&" alt="chathuranga-1999" /></p-->
