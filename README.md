@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuradhe Senaratne</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
-<p align="left"> <!--img src="https://komarev.com/ghpvc/?username=chathuranga-1999&label=Profile%20views&color=0e75b6&style=flat" alt="chathuranga-1999" /> </p-->
+<!--p align="left"> <!img src="https://komarev.com/ghpvc/?username=chathuranga-1999&label=Profile%20views&color=0e75b6&style=flat" alt="chathuranga-1999" /> </p-->
 [![@anuradhasenaratne's Holopin board](https://holopin.me/anuradhasenaratne)](https://holopin.io/@anuradhasenaratne)
   
 <h3 align="left">Connect with me:</h3>
