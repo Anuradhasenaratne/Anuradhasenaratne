@@ -4,7 +4,7 @@
   I'm amazed by how computer technology 🌐 has transformed our lives in ways we never imagined. This fascination led me to pursue software engineering early on, and my passion has only grown since. I love exploring new tech stacks 💻 and using them to create exciting projects 🛠️.
 </p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha" /> 
+ <img src="https://komarev.com/ghpvc/?username=anuradhasenaratne&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha" /> 
 
 </p>
 
