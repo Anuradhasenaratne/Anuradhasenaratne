@@ -65,8 +65,26 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradhasenaratne&" alt="anuradhasenaratne" /></p>
 <hr/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuradhasenaratne" alt="anuradhasenaratne" /></a> </p>
-<hr/>
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anuradhasenaratne&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anuradhasenaratne&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+ <h3 align="center">  ⚡ Achievements ⚡</h3>
+
+[![An image of @Anuradhasenaratne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Anuradhasenaratne)](https://holopin.io/@Anuradhasenaratne)
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a> </p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
 </h3>
