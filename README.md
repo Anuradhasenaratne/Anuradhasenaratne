@@ -8,6 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=anuradhasenaratne&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha" /> 
 
 </p>
+<br>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -30,11 +31,8 @@
 </div>
 
 
-<br><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anuradhasenaratne&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhasenaratne" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuradhasenaratne" alt="anuradhasenaratne" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -66,6 +64,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuradhasenaratne&show_icons=true&locale=en" alt="anuradhasenaratne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradhasenaratne&" alt="anuradhasenaratne" /></p>
+<hr/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuradhasenaratne" alt="anuradhasenaratne" /></a> </p>
 <hr/>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
