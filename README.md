@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anuradha Senaratne</h1>
+
+<h1 align="center">Hi 👋,I'm Anuradha Senaratne</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">
   I'm amazed by how computer technology 🌐 has transformed our lives in ways we never imagined. This fascination led me to pursue software engineering early on, and my passion has only grown since. I love exploring new tech stacks 💻 and using them to create exciting projects 🛠️.
