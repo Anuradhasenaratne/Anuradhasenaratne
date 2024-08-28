@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,I'm Anuradha Senaratne</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> ,I'm Anuradha Senaratne</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">
   I'm amazed by how computer technology 🌐 has transformed our lives in ways we never imagined. This fascination led me to pursue software engineering early on, and my passion has only grown since. I love exploring new tech stacks 💻 and using them to create exciting projects 🛠️.
@@ -65,19 +65,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradhasenaratne&" alt="anuradhasenaratne" /></p>
 <hr/>
-<h3 align="left">Trophy:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anuradhasenaratne&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anuradhasenaratne&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
+<div align="center" >
+   <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> <h2>Trophies</h2>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Anuradhasenaratne&row=4&theme=onedark&no-frame=true"/>
+</div>
+ <br>
  <h3 align="center">  ⚡ Achievements ⚡</h3>
 
 [![An image of @Anuradhasenaratne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Anuradhasenaratne)](https://holopin.io/@Anuradhasenaratne)
