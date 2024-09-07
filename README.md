@@ -36,7 +36,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Spring boots**
+- 🔭 I’m currently working on **laravel,python programming with ai**
 
 - 📫 How to reach me **anuradhasenaratne@gmail.com**
 
