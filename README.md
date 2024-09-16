@@ -42,7 +42,8 @@
 
 - ⚡ Fun fact **Raawana**
 
-<p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></p>
+<p align="center"><a href="buymeacoffee.com/anuradharip
+"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></p>
 
 <hr/>
 <br>
